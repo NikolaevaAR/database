@@ -10,13 +10,10 @@
 <img width="25" height="25" src="https://img.icons8.com/nolan/96/sql.png" alt="sql"/> [SELECT запросы](https://docs.google.com/spreadsheets/d/11r04OCBKj_N6k4DEfJlfSPYuMKw3Lk3zgXjZF2EKNiM/edit?usp=sharing) в MySQL
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="25" height="25" src="https://img.icons8.com/nolan/96/sql.png" alt="sql"/> Работа с операторами JOIN в SELECT запросах к базе данных qa_shop в MySQL
+<img width="25" height="25" src="https://img.icons8.com/nolan/96/sql.png" alt="sql"/> [JOIN в SELECT запросах](https://docs.google.com/spreadsheets/d/1t594hmCTU5GCKBxPTqHG-ZoKNatpUu6eM-OSpk5uOgo/edit?usp=sharing) в MySQL
 
 
-- [@Решение](https://docs.google.com/spreadsheets/d/1jUGB-CBjwcvA6nRNofE7qdUw_UaTXb0zs8f-oRBr9O4/edit?usp=sharing)
-## Задание 20
-Работа с операторами JOIN в SELECT запросах к базе данных qa_shop в MySQL
-- [@Решение](https://docs.google.com/spreadsheets/d/1nTJ0F9as2P6z8EkXEnc6-nelb8ruBVWur4SAbm2tOEs/edit?usp=sharing)
+
 ## Задание 21
 Работа в MongoDB: создние БД, коллекции, документов и написание запросов в консоли к коллекции
 - [@Решение](https://docs.google.com/spreadsheets/d/12imRz0__zVq_2oyZusAHvyBJecFHDE-_vhFXxg7I82k/edit?usp=sharing)
