@@ -14,7 +14,7 @@
 
 
 ## MongoDB
+В рамках обучения также работала с нереляционной базой данных - MongoDB. Ниже представлены запросы к базе данных, выполненные мною в MongoDB.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="25" height="25" src="https://img.icons8.com/nolan/96/mongo-db.png" alt="mongo-db"/> Работа в MongoDB: создние БД, коллекции, документов и написание запросов в консоли к коллекции
-- [@Решение](https://docs.google.com/spreadsheets/d/12imRz0__zVq_2oyZusAHvyBJecFHDE-_vhFXxg7I82k/edit?usp=sharing)
+<img width="25" height="25" src="https://img.icons8.com/nolan/96/mongo-db.png" alt="mongo-db"/> [Запросы в MongoDB](https://docs.google.com/spreadsheets/d/1t1VMk8F0yQQqxt8aa8n4_daprP0BmPePxms6hCfqlYE/edit?usp=sharing)
