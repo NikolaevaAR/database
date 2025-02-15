@@ -1,5 +1,12 @@
-# Работа с базами данных
-## Задание 19
+# <img width="40" height="40" src="https://img.icons8.com/?size=100&id=43611&format=png&color=000000" alt="database"/> Работа с базами данных
+
+
+## MySQL
+В рамках учебного проекта я работала с базой данных веб-приложения [demoshopping.ru](https://qa.demoshopping.ru/), реализованной на базе MySQL.
+
+### Структура базы данных веб-приложения [demoshopping.ru](https://qa.demoshopping.ru/)
+
+К данной базе данных были выполнены следующие SQL-запросы
 Работа с SELECT запросами к базе данных qa_shop в MySQL
 - [@Решение](https://docs.google.com/spreadsheets/d/1jUGB-CBjwcvA6nRNofE7qdUw_UaTXb0zs8f-oRBr9O4/edit?usp=sharing)
 ## Задание 20
