@@ -14,7 +14,7 @@
 
 
 ## MongoDB
-В рамках обучения также работала с нереляционной базой данных - MongoDB. Ниже представлены запросы к базе данных, выполненные мною в MongoDB.
+В ходе обучения также была выполнена работа с нереляционной базой данных - MongoDB. Ниже представлены запросы к базе данных, выполненные мною в MongoDB.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="25" height="25" src="https://img.icons8.com/nolan/96/mongo-db.png" alt="mongo-db"/> [Запросы в MongoDB](https://docs.google.com/spreadsheets/d/1t1VMk8F0yQQqxt8aa8n4_daprP0BmPePxms6hCfqlYE/edit?usp=sharing)
